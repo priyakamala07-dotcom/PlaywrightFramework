@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3542","Login Page title Test","chromium","2026-10-17","passed","2026-10-17","","loginPage.spec.ts","",""
+"","37716","Forgot password link Test","chromium","2026-10-17","broken","2026-10-17","","loginPage.spec.ts","",""
+"","39162","getHomePageHeaders","chromium","2026-10-17","broken","2026-10-17","","homePage.spec.ts","",""
+"","39203","Logout link Test","chromium","2026-10-17","broken","2026-10-17","","homePage.spec.ts","",""
+"","34012","do Login test","chromium","2026-10-17","broken","2026-10-17","","loginPage.spec.ts","",""
+"","5569","Test Header of HomePage","chromium","2026-10-17","failed","2026-10-17","","homePage.spec.ts","",""
